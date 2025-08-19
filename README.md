@@ -18,6 +18,11 @@ A simple Python OOP project that simulates arranging furniture in a room while r
 
 ---
 
+## 📸 Preview (Code Example)
+![Adding Furniture Function](images/adding-furniture.png)
+
+---
+
 ## 📂 Project Structure
 room-layout-simulator/
 │
