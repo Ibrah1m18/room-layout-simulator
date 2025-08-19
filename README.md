@@ -59,6 +59,7 @@ Support for different furniture shapes (L-shape, circular, etc).
 
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify.
+
 Created by Ibrahim Ahmed 
 https://www.linkedin.com/in/ibrahim-ahmed-572475143/
 
