@@ -19,7 +19,7 @@ A simple Python OOP project that simulates arranging furniture in a room while r
 ---
 
 ## 📸 Preview (Code Example)
-![Adding Furniture Function](images/adding-furniture.png)
+![Adding Furniture Function](images/Adding-a-furniture-object-after-checking-it's-position-.png)
 
 ---
 
